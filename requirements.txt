@@ -2,4 +2,4 @@ ftfy
 regex
 tqdm
 #torch
-torchvision
+#torchvision
